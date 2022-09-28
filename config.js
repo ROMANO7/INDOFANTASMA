@@ -4,16 +4,16 @@ import { fileURLToPath } from 'url'
 import fs from 'fs'
 
 global.owner = [
-  ['3547872309', '𝙁𝙖𝙣𝙩𝙖𝙨𝙢𝙖 / 𝘾𝙧𝙚𝙖𝙙𝙤𝙧', true],
+  ['3547872309', 'INDOBOT', true],
   ['573166666661', 'Colaborador', true],
 ] 
 global.suittag = ['3547872309'] 
 global.prems = ['3547872309'] 
 
-global.packname = '𝙁𝙖𝙣𝙩𝙖𝙨𝙢𝙖'
-global.author = '★ 𝙁𝙖𝙣𝙩𝙖𝙨𝙢𝙖 - 𝘽𝙤𝙩 ★'
-global.wm = '★ 𝙁𝙖𝙣𝙩𝙖𝙨𝙢𝙖 - 𝘽𝙤𝙩 ★'
-global.igfg = '★ 𝙁𝙖𝙣𝙩𝙖𝙨𝙢𝙖 - 𝘽𝙤𝙩 ★'
+global.packname = 'ROMANO'
+global.author = '★ INDO - BOT ★'
+global.wm = '★ INDO - BOT★'
+global.igfg = '★ INDO - BOT ★'
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 
 global.keysZens = ['fiktod', 'c2459db922', 'BF39D349845E', '675e34de8a', '37CC845916', '0b917b905e6f', '6fb0eff124']
